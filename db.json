@@ -1,0 +1,67 @@
+{
+  "regiones":[
+    {
+      "id":"r1","pais":"p2","nombre":"Región Norte"
+    },
+    {
+      "id":"r2","pais":"p2","nombre":"Región Oeste"
+    },
+    {
+      "id":"r3","pais":"p2","nombre":"Región Sur"
+    },
+    {
+      "id":"r4","pais":"p2","nombre":"Región Este"
+    },
+    
+    
+    {
+      "id":"r5","pais":"p1","nombre":"Arica y Parinacota"
+    },
+    {
+      "id":"r6","pais":"p1","nombre":"Tarapacá"
+    },
+    {
+      "id":"r7","pais":"p1","nombre":"Antofagasta"
+    },
+    {
+      "id":"r8","pais":"p1","nombre":"Atacama"
+    },
+    {
+      "id":"r9","pais":"p1","nombre":"Coquimbo"
+    },
+    {
+      "id":"r10","pais":"p1","nombre":"Valparaíso"
+    },
+    {
+      "id":"r11","pais":"p1","nombre":"Libertador General Bernardo O'Higgins"
+    },
+    {
+      "id":"r12","pais":"p1","nombre":"Maule"
+    },
+    {
+      "id":"r13","pais":"p1","nombre":"Ñuble"
+    },
+    {
+      "id":"r14","pais":"p1","nombre":"Biobío"
+    },
+    {
+      "id":"r15","pais":"p1","nombre":"Araucanía"
+    },
+    {
+      "id":"r16","pais":"p1","nombre":"Los Ríos"
+    },
+    {
+      "id":"r17","pais":"p1","nombre":"Los Lagos"
+    },
+    {
+      "id":"r18","pais":"p1","nombre":"Aysén del General Carlos Ibáñez del Campo"
+    },
+    {
+      "id":"r19","pais":"p1","nombre":"Magallanes y de la Antártica Chilena"
+    },
+    {
+      "id":"r20","pais":"p1","nombre":"Metropolitana de Santiago"
+    }
+   ]
+
+}
